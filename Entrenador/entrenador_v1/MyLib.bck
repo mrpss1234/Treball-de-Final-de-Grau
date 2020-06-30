@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC639
+D 50mA Ic, 40V Vce, RF Signal NPN Transistor, TO-92
+K RF NPN Transistor
+F http://www.fairchildsemi.com/ds/BF/BF240.pdf
+$ENDCMP
+#
+$CMP HDSP-7503
+D One digit 7 segment high efficiency red, common cathode
+K display LED 7-segment
+F https://docs.broadcom.com/docs/AV02-2553EN
+$ENDCMP
+#
+$CMP HDSP-7segment-CC
+D One digit 7 segment red, common cathode
+K display LED 7-segment
+F https://docs.broadcom.com/docs/AV02-2553EN
+$ENDCMP
+#
+#End Doc Library

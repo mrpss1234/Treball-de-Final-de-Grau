@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MyLib)(type Legacy)(uri ${KIPRJMOD}/MyLib.lib)(options "")(descr ""))
+  (lib (name entrenador_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/entrenador_v1-rescue.lib)(options "")(descr ""))
+)
